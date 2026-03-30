@@ -1,4 +1,3 @@
-///////////code.gs///////////
 function doGet(e) {
   var htmlOutput =  HtmlService.createTemplateFromFile('index');
   htmlOutput.search='';
